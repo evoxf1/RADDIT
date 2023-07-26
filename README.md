@@ -45,9 +45,7 @@ REDIS_SECRET=
 and that's all you need to get started!
 
 
-## Acknowledgements
 
-- [Josh Tried Coding](https://www.youtube.com/@joshtriedcoding) for thumbnail design inspiration
 
 
 ## License
